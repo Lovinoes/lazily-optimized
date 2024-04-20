@@ -32,4 +32,4 @@ Format is *(Minecraft-version)*-x.y.z
 
 ## 🙏 Credits
 
-All developers (and contributors) of the mods and mod loaders used in this modpack
+All developers (and contributors) of the mods and mod loaders in this modpack
