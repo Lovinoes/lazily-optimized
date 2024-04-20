@@ -1,0 +1,13 @@
+name = "Lazily Optimized"
+author = "Lovinoes"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "edf4c8a26b4dc3090cafd3ec41e75357492f832eb88aecad909394a7b323bc56"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.4"
