@@ -8,7 +8,7 @@ joinedFirstServer:true
 maxFps:260
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Default-Dark-Mode-1.20.2+-2023.11.0.zip","file/Fast Better Grass.zip"]
 simulationDistance:6
 skipMultiplayerWarning:true
 telemetryOptInExtra:false

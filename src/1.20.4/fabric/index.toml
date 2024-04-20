@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "5aa6ea53a1a6c1baf55e2fbbf701effe166f83b824ac5e52244501bee605e881"
+hash = "d6a2e56c99193627d9ad3ea0948f7a2e67e51d6710e6b474cdf79c613fe2d13e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -94,7 +94,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0e4330b1f51201fbdec74e3f5c0f3029b5bfef004b3a1af3e242ba7b3764173c"
+hash = "14291dfa864ceb9df7f8c587ba381b4d7b50397c23262af0a830e79a9864d9f9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -339,6 +339,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "6ba173154c8fe78d78524902a420006e0f1af92533d990fc36d14e55f33327b4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "0aa728deb609a9a8a5885f6466f6b5df27ea6a9d488b43cdc94ad7bdb2adc21c"
 metafile = true
 
 [[files]]
