@@ -15,7 +15,7 @@
 </div>
 
 # Lazily Optimized
-Lazily Optimized is a simple Minecraft modpack that focuses on a lag-free, high-performance Minecraft experience with some graphical improvements. Built on Fabric.
+Lazily Optimized focuses on a smooth Minecraft experience with a few superficial improvements. Built on Fabric.
 
 ## 📥 Installation
 You can use any launcher that supports Modrinth modpacks (such as MultiMC, Prism Launcher).
