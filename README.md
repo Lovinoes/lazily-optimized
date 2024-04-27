@@ -25,10 +25,7 @@ For further instructions, see the [Modrinth documentation](https://docs.modrinth
 ## 🧮 Versioning
 Format is *(Minecraft-version)*-x.y.z
 
-- The Minecraft version = minor release of the version
-- x is a mod list revision (addition/removal of a mod)
-- y is the config revision (config added/removed or changed)
-- z is incremented if there is a release that contains **only** mod updates and small or no other changes
+- wip
 
 ## 🙏 Credits
 
