@@ -22,11 +22,6 @@ You can use any launcher that supports Modrinth modpacks (such as MultiMC, Prism
 For further instructions, see the [Modrinth documentation](https://docs.modrinth.com/docs/modpacks/playing_modpacks/).
 
 
-## 🧮 Versioning
-Format is *(Minecraft-version)*-x.y.z
-
-- wip
-
 ## 🙏 Credits
 
 All developers (and contributors) of the mods and mod loaders in this modpack
