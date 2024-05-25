@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.lovinoes.de/files/pictures/icons/lovinoes/lovinoes.png" height="auto"
+  <img src="https://cdn.lovinoes.de/files/pictures/icons/lovinoes/lovinoes.png" height="auto" width="175">
 
   <br>
   <a href="https://modrinth.com/modpack/lazily-optimized">
